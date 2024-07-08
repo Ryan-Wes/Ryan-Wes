@@ -1,25 +1,70 @@
-## Bem-vindo(a) ao perfil do Ryan-Wes 😁
-
- <div>
-   <a href="https://github.com/Ryan-Wes">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ryan-Wes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryan-Wes&layout=compact&langs_count=6&theme=tokyonight"/>
-</div>
-    
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
- 
+<img width=100% bottom=50px src="https://github.com/Ryan-Wes/Ryan-Wes/assets/169725811/4c6077aa-1c03-427e-9dee-121be3235988"/>
 <br>
- 
-### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
- 
-<div> 
- 
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/5DVhGKVf4h" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:wesley.ryan03@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/ricardohdias" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<br>
+<br>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=45&pause=1000&color=A13FD4F3&center=true&vCenter=true&random=false&width=945&height=70&lines=Hello%2C+I'm+Ryan;I'm+a+Web+Developer;I'm+from+Bahia%2C+Brazil;Welcome%3A)](https://git.io/typing-svg)
+
+<br>
+<br>
+
+<div align="center">
+  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ryan-wes&theme=midnight-purple&locale=pt_BR&card_width=900)](https://git.io/streak-stats)
+
 </div>
+
+
+<div align="center"> 
+
+<a href="mailto:cmp.1a.wesley.ryan03@gmail.com">
+<img align="center" height="80" width="80" src="https://github.com/Ryan-Wes/Ryan-Wes/assets/169725811/cfcab17c-f486-463f-8bff-d2f67c540179">
+</a>
+
+
+<a  href="https://www.linkedin.com/in/wesley-ryanl/" target=_blank>
+<img align="center"  height="80" width="80" src="https://github.com/Ryan-Wes/Ryan-Wes/assets/169725811/8135b8ac-04a3-431b-8563-eee36935815b">
+</a>
+
+</div>
+
+<div align="center" >
+   
+![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/ryan-wes?chart=3dbar&gap=0.6&scale=2&flatten=1&animation=mess&animation_duration=4&animation_loop=true&format=svg&weeks=20&theme=purple&widget_size=small&dark=true) 
+
+</div>
+
+
+### Main skills:
+<div align="left"> 
+ 
+<img align="left" height="84" width="84" src="https://github.com/Ryan-Wes/Ryan-Wes/assets/169725811/001e921d-c89f-4a53-940f-fd0ba84ed72d">
+
+<img align="left" height="80" width="80" src="https://github.com/Ryan-Wes/Ryan-Wes/assets/169725811/8330a349-a24e-4bf2-b210-f049e4309992">
+
+<img align="left"  height="80" width="80" src="https://github.com/Ryan-Wes/Ryan-Wes/assets/169725811/fd8fd671-0f6c-49eb-aad3-593ea1361c95">
+
+</div>
+
+<br>
+<br> 
+<br>
+<br>
+<br>
+<br> 
+
+<div align="center">
+
+<br>
+
+<p align="centre"><b>Visitors Count</b></p> 
+  
+<p align="center"><img align="center"src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FRyan-Wes&s=40&c=764fb7&bg=00000000&no=1&ff=digi&tb=Visits%3A&ta=" /></p> 
+<br>
+</div>
+
+<br>
+<br> 
+
+
+<img width=100% src=https://github.com/Ryan-Wes/Ryan-Wes/assets/169725811/48baf793-5946-4f2a-afa7-819f09212e05/>
