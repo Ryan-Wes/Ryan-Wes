@@ -17,13 +17,12 @@
 
 <div align="center"> 
 
-<a href="mailto:cmp.1a.wesley.ryan03@gmail.com">
-<img align="center" height="80" width="80" src="https://github.com/Ryan-Wes/Ryan-Wes/assets/169725811/cfcab17c-f486-463f-8bff-d2f67c540179">
-</a>
-
-
 <a  href="https://www.linkedin.com/in/wesley-ryanl/" target=_blank>
 <img align="center"  height="80" width="80" src="https://github.com/Ryan-Wes/Ryan-Wes/assets/169725811/8135b8ac-04a3-431b-8563-eee36935815b">
+</a>
+
+<a href="mailto:cmp.1a.wesley.ryan03@gmail.com">
+<img align="center" height="80" width="80" src="https://github.com/Ryan-Wes/Ryan-Wes/assets/169725811/cfcab17c-f486-463f-8bff-d2f67c540179">
 </a>
 
 </div>
