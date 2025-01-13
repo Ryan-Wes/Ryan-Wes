@@ -8,13 +8,14 @@
 <br>
 <br>
 
-<div align="center" style="display: flex; justify-content: center; gap: 20px;">
+<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: nowrap;">
   <img src="https://github-readme-stats.vercel.app/api?username=ryan-wes&show_icons=true&theme=midnight-purple&include_all_commits=true" alt="Anurag's GitHub stats" style="height: 200px;">
 
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryan-wes&layout=compact&theme=midnight-purple" alt="Top Langs" style="height: 200px; max-width: 300px;">
   </a>
 </div>
+
 
 
 <br>
