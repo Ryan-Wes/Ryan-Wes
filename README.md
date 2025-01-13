@@ -1,4 +1,4 @@
-<img width=100% bottom=50px src="https://github.com/Ryan-Wes/Ryan-Wes/assets/169725811/4c6077aa-1c03-427e-9dee-121be3235988"/>
+  <img width=100% bottom=50px src="https://github.com/Ryan-Wes/Ryan-Wes/assets/169725811/4c6077aa-1c03-427e-9dee-121be3235988"/>
 <br>
 <br>
 <br>
@@ -8,11 +8,18 @@
 <br>
 <br>
 
-<div align="center">
-  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ryan-wes&theme=midnight-purple&locale=pt_BR&card_width=900)](https://git.io/streak-stats)
+<div align="center" style="display: flex; justify-content: center; gap: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=ryan-wes&show_icons=true&theme=midnight-purple&include_all_commits=true" alt="Anurag's GitHub stats" style="height: 200px;">
 
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryan-wes&layout=compact&theme=midnight-purple" alt="Top Langs" style="height: 200px; max-width: 300px;">
+  </a>
 </div>
+
+
+<br>
+<br>
+
 
 
 <div align="center"> 
@@ -26,6 +33,9 @@
 </a>
 
 </div>
+
+<br>
+<br>
 
 <div align="center" >
    
