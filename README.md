@@ -12,6 +12,12 @@
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryan-wes&hide=jupyternotebook&layout=compact&theme=midnight-purple" alt="Top Langs" style="height: 200px; width: auto; max-width: 45%; object-fit: contain;">    
   </a>
+<br>
+<br>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ryan-wes&radius=16&theme=elegant&area=true&order=5&bg_color=431C57&area_color=fff&hide_border=true&hide_title=false" height="300" alt="activity-graph graph"  />
+</div>
+
 </div>
 
 
