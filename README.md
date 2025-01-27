@@ -15,9 +15,8 @@
 <br>
 <br>
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ryan-wes&radius=16&theme=elegant&area=true&order=5&bg_color=431C57&area_color=fff&hide_border=true&hide_title=false" height="300" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ryan-wes&radius=16&theme=elegant&area=true&order=5&bg_color=000&area_color=431C57&hide_border=true&hide_title=false&line=411F62" height="300" alt="activity-graph graph"  />
 </div>
-
 </div>
 
 
