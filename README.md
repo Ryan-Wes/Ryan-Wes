@@ -1,44 +1,40 @@
-[  <img width=100% bottom=50px src="https://github.com/Ryan-Wes/Ryan-Wes/assets/169725811/4c6077aa-1c03-427e-9dee-121be3235988"/>
-](https://capsule-render.vercel.app/api?type=blur&height=300&color=7130B1&text=WRyan&reversal=false&textBg=false&fontColor=fff&fontSize=70&fontAlign=50&animation=fadeIn&desc=Data%20Analist%20|%20Web%20Developer&descAlignY=62&descAlign=69)<br>
-<br>
-<br>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=45&pause=1000&color=A13FD4F3&center=true&vCenter=true&random=false&width=945&height=70&lines=Hello%2C+I'm+Ryan;I'm+a+Web+Developer;I'm+from+Bahia%2C+Brazil;Welcome%3A)](https://git.io/typing-svg)
+<img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=7130B1&text=WRyan&fontColor=fff&fontSize=85&animation=fadeIn&desc=Data%20Analyst%20|%20Web%20Developer&descAlignY=62&descAlign=72" />
 
 <br>
 <br>
 
-<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: nowrap; max-width: 90%; width: 100%;">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryan-wes&hide=jupyternotebook&layout=compact&theme=midnight-purple" alt="Top Langs" style="height: 200px; width: auto; max-width: 45%; object-fit: contain;">    
-  </a>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=30&pause=1000&color=A900FF&center=true&vCenter=true&width=945&height=70&lines=Hello%2C+I'm+WRyan;I'm+a+Data+Analyst+and+Web+Developer;I'm+also+in+love+with+Automations;I'm+from+Bahia%2C+Brazil;Be+Welcome!)](https://git.io/typing-svg)
+
+
 <br>
 <br>
+
+
+
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ryan-wes&radius=16&theme=elegant&area=true&order=5&bg_color=000&area_color=431C57&hide_border=true&hide_title=false&line=411F62" height="300" alt="activity-graph graph"  />
+  <img height=180 align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=ryan-wes&show_icons=true&count_private=true&rank_icon=github&theme=midnight-purple&font=Iosevka"/>
+  <img height=180 align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryan-wes&layout=compact&font=Iosevka&langs_count=16&theme=midnight-purple"/>
+  <br>
+  <br>
 </div>
-</div>
-
-
-
-
 
 <br>
 <br>
 
 
 
-<div align="center"> 
+<p align="center">
+  <a href="https://www.linkedin.com/in/wesley-ryanl/" target="_blank">
+    <img height="80" width="80" src="https://github.com/Ryan-Wes/Ryan-Wes/assets/169725811/8135b8ac-04a3-431b-8563-eee36935815b" alt="LinkedIn">
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:cmp.1a.devwryan@gmail.com">
+    <img height="80" width="80" src="https://github.com/Ryan-Wes/Ryan-Wes/assets/169725811/cfcab17c-f486-463f-8bff-d2f67c540179" alt="Email">
+  </a>
+</p>
 
-<a  href="https://www.linkedin.com/in/wesley-ryanl/" target=_blank>
-<img align="center"  height="80" width="80" src="https://github.com/Ryan-Wes/Ryan-Wes/assets/169725811/8135b8ac-04a3-431b-8563-eee36935815b">
-</a>
 
-<a href="mailto:cmp.1a.wesley.ryan03@gmail.com">
-<img align="center" height="80" width="80" src="https://github.com/Ryan-Wes/Ryan-Wes/assets/169725811/cfcab17c-f486-463f-8bff-d2f67c540179">
-</a>
-
-</div>
 
 <br>
 <br>
