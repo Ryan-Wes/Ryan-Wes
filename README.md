@@ -46,8 +46,14 @@
 </div>
 
 
-### Main skills:
+### Skills:
 <div align="left"> 
+
+<img align="left"  height="55" width="55" src="https://github.com/user-attachments/assets/eaea795d-628c-4769-87b2-b5fcca0aa5cc">
+
+<img align="left" width="55" height="55" alt="n8n" src="https://github.com/user-attachments/assets/a249ae36-bf33-40bf-a61e-7b21a536ca78" />
+
+<img align="left"  height="55" width="55" src="https://github.com/user-attachments/assets/45127a38-b860-4748-9743-7ffb75b2e3da">
  
 <img align="left" height="55" width="55" src="https://github.com/Ryan-Wes/Ryan-Wes/assets/169725811/001e921d-c89f-4a53-940f-fd0ba84ed72d">
 
@@ -65,36 +71,6 @@
 
 <img align="left"  height="55" width="55" src="https://github.com/user-attachments/assets/58115f52-1790-4ee8-954c-352546f9fc08">
 
-<img align="left"  height="55" width="55" src="https://github.com/user-attachments/assets/45127a38-b860-4748-9743-7ffb75b2e3da">
-
-<img align="left"  height="55" width="55" src="https://github.com/user-attachments/assets/eaea795d-628c-4769-87b2-b5fcca0aa5cc">
-
 <img align="left"  height="55" width="55" src="https://github.com/user-attachments/assets/f0104307-cd26-4e9a-9b6d-370d610592b9">
 
-
-
-
 </div>
-
-<br>
-<br> 
-<br>
-<br>
-<br>
-<br> 
-
-<div align="center">
-
-<br>
-
-<p align="centre"><b>Visitors Count</b></p> 
-  
-<p align="center"><img align="center"src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FRyan-Wes&s=40&c=764fb7&bg=00000000&no=1&ff=digi&tb=Visits%3A&ta=" /></p> 
-<br>
-</div>
-
-<br>
-<br> 
-
-
-<img width=100% src=https://github.com/Ryan-Wes/Ryan-Wes/assets/169725811/48baf793-5946-4f2a-afa7-819f09212e05/>
