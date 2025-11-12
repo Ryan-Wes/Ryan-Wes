@@ -5,7 +5,14 @@
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=30&pause=1000&color=A900FF&center=true&vCenter=true&width=945&height=70&lines=Hello%2C+I'm+Wesley+Ryan;I'm+a+Data+Analyst+and+Web+Developer;I'm+also+in+love+with+Automations;I'm+from+Bahia%2C+Brazil;Be+Welcome!)](https://git.io/typing-svg)
+<br>
+<br>
 
+<p align="center">
+  <b>Data Analyst & Web Developer focused on automations and applied AI.</b><br>
+  I build solutions using <b>Python</b>, <b>n8n</b>, <b>APIs</b>, and <b>LLMs</b> (Gemini/LangChain) to extract and organize data, orchestrate workflows, and add intelligence to real projects.<br>
+  Passionate about turning manual tasks into fast, reproducible pipelines — with interest in <b>AI agents</b>, <b>RAG</b>, and data-driven dashboards.
+</p>
 
 <br>
 <br>
