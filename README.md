@@ -9,7 +9,7 @@
 <br>
 
 <p align="center">
-  <b><strong>Full-Stack</strong> Developer | Dados & <strong>Automação com IA</strong></b><br><br>
+  <b><strong>Full-Stack</strong> Developer | Data & <strong>AI Automation</strong></b><br><br>
   I design and build solutions that combine <b>code, data and AI</b> to automate real workflows.<br>
   Using <b>Python</b>, <b>JavaScript</b>, <b>n8n</b>, <b>APIs</b> and <b>LLMs</b>, I create pipelines to collect, process and organize information — turning repetitive tasks into fast, reproducible systems.<br>
   Currently exploring <b>AI Agents</b>, <b>RAG</b>, and data-driven dashboards.
